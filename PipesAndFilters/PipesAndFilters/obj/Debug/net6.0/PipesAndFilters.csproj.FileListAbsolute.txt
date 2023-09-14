@@ -1,0 +1,15 @@
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\bin\Debug\net6.0\PipesAndFilters.exe
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\bin\Debug\net6.0\PipesAndFilters.deps.json
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\bin\Debug\net6.0\PipesAndFilters.runtimeconfig.json
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\bin\Debug\net6.0\PipesAndFilters.dll
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\bin\Debug\net6.0\PipesAndFilters.pdb
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.csproj.AssemblyReference.cache
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.AssemblyInfoInputs.cache
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.AssemblyInfo.cs
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.csproj.CoreCompileInputs.cache
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.dll
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\refint\PipesAndFilters.dll
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.pdb
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.genruntimeconfig.cache
+E:\MyGit\Pattern\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\ref\PipesAndFilters.dll
